@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am an engineering student interested in Cloud Technologies, Networking<br>and Databases.
+I am an engineering undergrad interested in Cloud Technologies, Networking<br>and Databases.
 
 
 ## 🌐 Socials:
